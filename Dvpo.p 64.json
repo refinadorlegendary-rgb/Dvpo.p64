@@ -1,0 +1,614 @@
+[
+  {
+    "title": "Ahora Como Lo Olvido",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0Fob3JhJTIwQ29tbyUyMExvJTIwT2x2aWRvLm1wNA=="
+  },
+  {
+    "title": "Amiga Mia-AROMA",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0FtaWdhJTIwTWlhLUFST01BLm1wNA=="
+  },
+  {
+    "title": "Amistades Peligrosas - Me Quedaré Sólo",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0FtaXN0YWRlcyUyMFBlbGlncm9zYXMlMjAtJTIwTWUlMjBRdWVkYXIlQzMlQTklMjBTJUMzJUIzbG8ubXA0"
+  },
+  {
+    "title": "Ana Bárbara - Bandido",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0FuYSUyMEIlQzMlQTFyYmFyYSUyMC0lMjBCYW5kaWRvLm1wNA=="
+  },
+  {
+    "title": "Ana Bárbara - La Trampa",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0FuYSUyMEIlQzMlQTFyYmFyYSUyMC0lMjBMYSUyMFRyYW1wYS5tcDQ="
+  },
+  {
+    "title": "Ana Bárbara - Loca",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0FuYSUyMEIlQzMlQTFyYmFyYSUyMC0lMjBMb2NhLm1wNA=="
+  },
+  {
+    "title": "Angel Lyrics - Belinda",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0FuZ2VsJTIwTHlyaWNzJTIwLSUyMEJlbGluZGEubXA0"
+  },
+  {
+    "title": "Aqua - Barbie Girl",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0FxdWElMjAtJTIwQmFyYmllJTIwR2lybC5tcDQ="
+  },
+  {
+    "title": "Ariztía - A veces me parece",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0FyaXp0JUMzJUFBJTIwLSUyMEElMjB2ZWNlcyUyMG1lJTIwcGFyZWNlLm1wNA=="
+  },
+  {
+    "title": "Aroma - Amor De Tres",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0Fyb21hJTIwLSUyMEFtb3IlMjBEZSUyMFRyZXMubXA0"
+  },
+  {
+    "title": "Aroma - Querido Ladrón",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0Fyb21hJTIwLSUyMFF1ZXJpZG8lMjBMYWRyJUMzJUIzbi5tcDQ="
+  },
+  {
+    "title": "Atomic Kitten - The Tide Is High",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0F0b21pYyUyMEtpdHRlbiUyMC0lMjBUaGUlMjBUaWRlJTIwSXMlMjBIaWdoLm1wNA=="
+  },
+  {
+    "title": "Avril Lavigne - Complicated",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0F2cmlsJTIwTGF2aWduZSUyMC0lMjBDb21wbGljYXRlZC5tcDQ="
+  },
+  {
+    "title": "Avril Lavigne - My Happy End",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0F2cmlsJTIwTGF2aWduZSUyMC0lMjBNeSUyMEhhcHB5JTIwRW5kLm1wNA=="
+  },
+  {
+    "title": "Becky G, Bad Bunny - Mayores",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0JlY2t5JTIwRyUyQyUyMEJhZCUyMEJ1bm55JTIwLSUyME1heW9yZXMubXA0"
+  },
+  {
+    "title": "Belanova - Cada Que..)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0JlbGFub3ZhJTIwLSUyMENhZGElMjBRdWUuLikubXA0"
+  },
+  {
+    "title": "Belanova - Rosa Pastel)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0JlbGFub3ZhJTIwLSUyMFJvc2ElMjBQYXN0ZWwpLm1wNA=="
+  },
+  {
+    "title": "Belinda - Luz Sin Gravedad",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0JlbGluZGElMjAtJTIwTHV6JTIwU2luJTIwR3JhdmVkYWQubXA0"
+  },
+  {
+    "title": "Britney Spears - ...Baby One",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0JyaXRuZXklMjBTcGVhcnMlMjAtJTIwLi4uQmFieSUyME9uZS5tcDQ="
+  },
+  {
+    "title": "Britney Spears - Lucky",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0JyaXRuZXklMjBTcGVhcnMlMjAtJTIwTHVja3kubXA0"
+  },
+  {
+    "title": "Carly Rae Jepsen - Call Me Maybe",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0Nhcmx5JTIwUmFlJTIwSmVwc2VuJTIwLSUyMENhbGwlMjBNZSUyME1heWJlLm1wNA=="
+  },
+  {
+    "title": "Christina Aguilera - Genio Atrapado",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0NocmlzdGluYSUyMEFndWlsZXJhJTIwLSUyMEdlbmlvJTIwQXRyYXBhZG8ubXA0"
+  },
+  {
+    "title": "DR. PSIQUIATRA - GLORIA TREVI",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0RSLiUyMFBTSVFVSUFUUkElMjAtJTIwR0xPUklBJTIwVFJFVkkubXA0"
+  },
+  {
+    "title": "Díganle",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0QlQzMlQTNnYW5sZS5tcDQ="
+  },
+  {
+    "title": "Fey - Media Naranja",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0ZleSUyMC0lMjBNZWRpYSUyME5hcmFuamEubXA0"
+  },
+  {
+    "title": "Floricienta Flores Amarillas",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0Zsb3JpY2llbnRhJTIwRmxvcmVzJTIwQW1hcmlsbGFzLm1wNA=="
+  },
+  {
+    "title": "Grupo Aroma - Mentiras",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0dydXBvJTIwQXJvbWElMjAtJTIwTWVudGlyYXMubXA0"
+  },
+  {
+    "title": "Grupo Limite - Alma Rebelde",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0dydXBvJTIwTGltaXRlJTIwLSUyMEFsbWElMjBSZWJlbGRlLm1wNA=="
+  },
+  {
+    "title": "Grupo Limite - Ay Papacito",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0dydXBvJTIwTGltaXRlJTIwLSUyMEF5JTIwUGFwYWNpdG8ubXA0"
+  },
+  {
+    "title": "Grupo Limite - Te Aprovechas",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0dydXBvJTIwTGltaXRlJTIwLSUyMFRlJTIwQXByb3ZlY2hhcy5tcDQ="
+  },
+  {
+    "title": "Jennifer Lopez - On The Floor",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0plbm5pZmVyJTIwTG9wZXolMjAtJTIwT24lMjBUaGUlMjBGbG9vci5tcDQ="
+  },
+  {
+    "title": "Joan Osborne - One Of Us (480 X 854)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0pvYW4lMjBPc2Jvcm5lJTIwLSUyME9uZSUyME9mJTIwVXMlMjAoNDgwJTIwWCUyMDg1NCkubXA0"
+  },
+  {
+    "title": "KAROL G - MI EX TENÍA RAZÓN",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0tBUk9MJTIwRyUyMC0lMjBNSSUyMEVYJTIwVEVOSUElQzMlODElMjBSQVolQzMlOTNObXA0"
+  },
+  {
+    "title": "KAROL G - Papasito",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0tBUk9MJTIwRyUyMC0lMjBQYXBhc2l0by5tcDQ="
+  },
+  {
+    "title": "KAROL G - Si Antes Te Hubier",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0tBUk9MJTIwRyUyMC0lMjBTaSUyMEFudGVzJTIwVGUlMjBIdWJpZXIubXA0"
+  },
+  {
+    "title": "Kabah - La Calle de las Sirenas",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0thYmFoJTIwLSUyMExhJTIwQ2FsbGUlMjBkZSUyMGxhcyUyMFNpcmVuYXMubXA0"
+  },
+  {
+    "title": "Katy Perry - Hot N Cold",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0thdHklMjBQZXJyeSUyMC0lMjBIb3QlMjBOJTIwQ29sZC5tcDQ="
+  },
+  {
+    "title": "Katy Perry - Roar",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0thdHklMjBQZXJyeSUyMC0lMjBSb2FyLm1wNA=="
+  },
+  {
+    "title": "Kudai - Dejame Gritar",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0t1ZGFpJTIwLSUyMERlamFtZSUyMEdyaXRhci5tcDQ="
+  },
+  {
+    "title": "Los Ángeles Azules - Nunca Es Suficiente",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L0xvcyUyMCVDMyU4MG5nZWxlcyUyMEF6dWxlcyUyMC0lMjBOdW5jYSUyMEVzJTIwU3VmaWNpZW50ZS5tcDQ="
+  },
+  {
+    "title": "M2M - Pretty Boy",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L00yTSUyMC0lMjBQcmV0dHklMjBCb3kubXA0"
+  },
+  {
+    "title": "Mariana - Una De Dos",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L01hcmlhbmElMjAtJTIwVW5hJTIwRGUlMjBEb3MubXA0"
+  },
+  {
+    "title": "Marta Sánchez - Desesperada",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L01hcnRhJTIwUyVDMyVBOXluY2hleiUyMC0lMjBEZXNlc3BlcmFkYS5tcDQ="
+  },
+  {
+    "title": "Miley Cyrus - Party In The U.S.A",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L01pbGV5JTIwQ3lydXMlMjAtJTIwUGFydHklMjBJbiUyMFRoZSUyMFUuUy5BLm1wNA=="
+  },
+  {
+    "title": "No Doubt - Dont Speak",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L05vJTIwRG91YnQlMjAtJTIwRG9udCUyMFNwZWFrLm1wNA=="
+  },
+  {
+    "title": "PALABRA DE AMIGA VIDEO",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1BBTEFCUkElMjBERSUyMEFNSUdBJTIwVklERU8ubXA0"
+  },
+  {
+    "title": "Paradisio Ft M.Garcia Dj Patrick Samoy BAILANDO 1996",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1BhcmFkaXNpbyUyMEZ0JTIwTS5HYXJjaWElMjBEaiUyMFBhdHJpY2slMjBTYW1veSUyMEJBSUxBTkRPJTIwMTk5Ni5tcDQ="
+  },
+  {
+    "title": "Paulina Rubio - Ni Una Sola Palabr",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1BhdWxpbmElMjBSdWJpbyUyMC0lMjBOaSUyMFVuYSUyMFNvbGElMjBQYWxhYnIubXA0"
+  },
+  {
+    "title": "Paulina Rubio - Todo Mi Amor",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1BhdWxpbmElMjBSdWJpbyUyMC0lMjBUb2RvJTIwTWklMjBBbW9yLm1wNA=="
+  },
+  {
+    "title": "Pilar Montenegro - Quitame E",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1BpbGFyJTIwTW9udGVuZWdybyUyMC0lMjBRdWl0YW1lJTIwRS5tcDQ="
+  },
+  {
+    "title": "Selena - Amor Prohibido",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1NlbGVuYSUyMC0lMjBBbW9yJTIwUHJvaGliaWRvLm1wNA=="
+  },
+  {
+    "title": "Selena - Bidi Bidi Bom Bom",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1NlbGVuYSUyMC0lMjBCaWRpJTIwQmlkaSUyMEJvbSUyMEJvbS5tcDQ="
+  },
+  {
+    "title": "Selena - Como La Flor",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1NlbGVuYSUyMC0lMjBDb21vJTIwTGElMjBGbG9yLm1wNA=="
+  },
+  {
+    "title": "Selena - El Chico Del Apartamento 5",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1NlbGVuYSUyMC0lMjBFbCUyMENoaWNvJTIwRGVsJTIwQXBhcnRhbWVudG8lMjA1Lm1wNA=="
+  },
+  {
+    "title": "Selena - La Llamada",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1NlbGVuYSUyMC0lMjBMYSUyMExsYW1hZGEubXA0"
+  },
+  {
+    "title": "Selena - No Me Queda Mas",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1NlbGVuYSUyMC0lMjBObyUyME1lJTIwUXVlZGElMjBNYXMubXA0"
+  },
+  {
+    "title": "Selena - Si Una Vez",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1NlbGVuYSUyMC0lMjBTaSUyMFVuYSUyMFZlei5tcDQ="
+  },
+  {
+    "title": "Selena - Techno Cumbia (Live From Astrodome) (480 X 640)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1NlbGVuYSUyMC0lMjBUZWNobm8lMjBDdW1iaWElMjAoTGl2ZSUyMEZyb20lMjBBc3Ryb2RvbWUpJTIwKDQ4MCUyMFglMjA2NDApLm1wNA=="
+  },
+  {
+    "title": "Selena Gomez The Scene - Love You Like",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1NlbGVuYSUyMEdvbWV6JTIwVGhlJTIwU2NlbmUlMjAtJTIwTG92ZSUyMFlvdSUyMExpa2UubXA0"
+  },
+  {
+    "title": "Shakira - Estoy Aquí",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1NoYWtpcmElMjAtJTIwRXN0b3klMjBBcXVpLm1wNA=="
+  },
+  {
+    "title": "Shakira - Hips Dont Lie",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1NoYWtpcmElMjAtJTIwSGlwcyUyMERvbnQlMjBMaWUubXA0"
+  },
+  {
+    "title": "Shakira - Las de la Intuición",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1NoYWtpcmElMjAtJTIwTGFzJTIwZGUlMjBsYSUyMEludHVpY2klQzMlQjNuLm1wNA=="
+  },
+  {
+    "title": "Shakira - Loba",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1NoYWtpcmElMjAtJTIwTG9iYS5tcDQ="
+  },
+  {
+    "title": "Shakira - Que Me Quedes Tú",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1NoYWtpcmElMjAtJTIwUXVlJTIwTWUlMjBRdWVkZXMlMjBUJUMzJUJBLm1wNA=="
+  },
+  {
+    "title": "Shakira - Un Poco de Amor",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1NoYWtpcmElMjAtJTIwVW4lMjBQb2NvJTIwZGUlMjBBbW9yLm1wNA=="
+  },
+  {
+    "title": "Shania Twain - Youre Still The One",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1NoYW5pYSUyMFR3YWluJTIwLSUyMFlvdXJlJTIwU3RpbGwlMjBUaGUlMjBPbmUubXA0"
+  },
+  {
+    "title": "Sia - Chandelier",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1NpYSUyMC0lMjBDaGFuZGVs"
+  },
+  {
+    "title": "Smile - Butterfly",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1NtaWxlJTIwLSUyMEJ1dHRlcmZseS5tcDQ="
+  },
+  {
+    "title": "Spice Girls - Wannabe",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1NwaWNlJTIwR2lybHMlMjAtJTIwV2FubmFiZS5tcDQ="
+  },
+  {
+    "title": "Thalia - Seduccion",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1RoYWxpYSUyMC0lMjBTZWR1Y2Npb24ubXA0"
+  },
+  {
+    "title": "Thalia, NATTI NATASHA",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1RoYWxpYSUyQyUyME5BVFRJJTIwTkFUQVNIQSUyMC5tcDQ="
+  },
+  {
+    "title": "Vanessa Carlton - A Thousand Mil",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1ZhbmVzc2ElMjBDYXJsdG9uJTIwLSUyMEElMjBUaG91c2FuZCUyME1pbC5tcDQ="
+  },
+  {
+    "title": "Yolanda Perez - Estoy Enamorada Y Mi Padre",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1lvbGFuZGElMjBQZXJleiUyMC0lMjBFc3RveSUyMEVuYW1vcmFkYSUyMFklMjBNaSUyMFBhZHJlLm1wNA=="
+  },
+  {
+    "title": "Yuridia, Ángela Aguilar - Qué Agonía",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L1l1cmlkaWElMkMlMjAlQzMlODFuZ2VsYSUyMEFndWlsYXIlMjAtJTIwUXUlQzMlQTklMjBBZ29uJUMzJUE1YS5tcDQ="
+  },
+  {
+    "title": "a que no le cuentas, aroma",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L2ElMjBxdWUlMjBubyUyMGxlJTIwY3VlbnRhcyUyQyUyMGFyb21hLm1wNA=="
+  },
+  {
+    "title": "el dolor de tu presencia",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L2VsJTIwZG9sb3IlMjBkZSUyMHR1JTIwcHJlc2VuY2lhLm1wNA=="
+  },
+  {
+    "title": "t.A.T.u. - All The Things She Said",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9rYXR5LXBlcnJ5LWhvdC1uLWNvbGRfMjAyNTA5L3QuQS5ULnUuJTIwLSUyMEFsbCUyMFRoZSUyMFRoaW5ncyUyMFNoZSUyMFNhaWQubXA0"
+  },
+  {
+    "title": "Ariana Grande ft. Nicki Minaj - Side To Side (Official Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0FyaWFuYSUyMEdyYW5kZSUyMGZ0LiUyME5pY2tpJTIwTWluYWolMjAtJTIwU2lkZSUyMFRvJTIwU2lkZSUyMCUyOFPmZpNpYWwlMjBWaWRlbyUyOSUyMGZ0LiUyME5pY2tpJTIwTWluYWolMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Beyoncé - Crazy In Love ft. JAY Z",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0JleW9uYyVDMyVBOSUyMC0lMjBDcmF6eSUyMEluJTIwTG92ZSUyMGZ0LiUyMEpBWSUyMFolMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Britney Spears - Born To Make You Happy (Official HD Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0JyaXRuZXklMjBTcGVhcnMlMjAtJTIwQm9ybiUyMFRvJTIwTWFrZSUyMFlvdSUyMEhhcHB5JTIwJTI4T2ZmaWNpYWwlMjBEJTIwVmlkZW8lMjklMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Britney Spears - Everytime (Official HD Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0JyaXRuZXklMjBTcGVhcnMlMjAtJTIwRXZlcnl0aW1lJTIwJTI4T2ZmaWNpYWwlMjBEJTIwVmlkZW8lMjklMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Britney Spears - Gimme More (Official HD Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0JyaXRuZXklMjBTcGVhcnMlMjAtJTIwR2ltbWUlMjBNb3JlJTIwJTI4T2ZmaWNpYWwlMjBEJTIwVmlkZW8lMjklMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Britney Spears - Hold It Against Me (Official Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0JyaXRuZXklMjBTcGVhcnMlMjAtJTIwSG9sZCUyMEl0JTIwQWdhaW5zdCUyME1lJTIwJTI4T2ZmaWNpYWwlMjBWaWRlbyUyOSUyODM2MFAlMjkubXA0"
+  },
+  {
+    "title": "Britney Spears - I Wanna Go (Official Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0JyaXRuZXklMjBTcGVhcnMlMjAtJTIwSSUyMFdhbm5hJTIwR28lMjAlMjhPZmZpY2lhbCUyMFZpZGVvJTI5JTI4MzYwUCUyOS5tcDQ="
+  },
+  {
+    "title": "Britney Spears - I'm A Slave 4 U (Official HD Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0JyaXRuZXklMjBTcGVhcnMlMjAtJTIwSSdtJTIwQSUyMFNsYXZlJTIwNCUyMFUlMjAlMjhPZmZpY2lhbCUyMEglMjBWaWRlbyUyOSUyODM2MFAlMjkubXA0"
+  },
+  {
+    "title": "Britney Spears - I'm Not A Girl, Not Yet A Woman (Official HD Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0JyaXRuZXklMjBTcGVhcnMlMjAtJTIwSSdtJTIwTm90JTIwQSUyMEdpcmwlMkMlMjBOb3QlMjBZZXQlMjBBJTIwV29tYW4lMjAlMjhPZmZpY2lhbCUyMEglMjBWaWRlbyUyOSUyODM2MFAlMjkubXA0"
+  },
+  {
+    "title": "Britney Spears - Oops! I Did It Again (Official HD Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0JyaXRuZXklMjBTcGVhcnMlMjAtJTIwT29wcyElMkJJJTIwRGlkJTIwSXQlMjBBZ2FpbiUyMCUyOE9mZmljaWFsJTIwSCUyMFZpZGVvJTI5JTI4MzYwUCUyOS5tcDQ="
+  },
+  {
+    "title": "Britney Spears - Overprotected (Official HD Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0JyaXRuZXklMjBTcGVhcnMlMjAtJTIwT3ZlcnByb3RlY3RlZCUyMCUyOE9mZmljaWFsJTIwSCUyMFZpZGVvJTI5JTI4MzYwUCUyOS5tcDQ="
+  },
+  {
+    "title": "Britney Spears - Piece Of Me (Official HD Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0JyaXRuZXklMjBTcGVhcnMlMjAtJTIwUGllY2UlMjBPZiUyME1lJTIwJTI4T2ZmaWNpYWwlMjBEJTIwVmlkZW8lMjklMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Britney Spears - Sometimes (Official HD Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0JyaXRuZXklMjBTcGVhcnMlMjAtJTIwU29tZXRpbWVzJTIwJTI4T2ZmaWNpYWwlMjBEJTIwVmlkZW8lMjklMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Britney Spears - Stronger (Official HD Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0JyaXRuZXklMjBTcGVhcnMlMjAtJTIwU3Ryb25nZXIlMjAlMjhPZmZpY2lhbCUyMEglMjBWaWRlbyUyOSUyODM2MFAlMjkubXA0"
+  },
+  {
+  "title": "Britney Spears - Toxic (Official HD Video)",
+  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0JyaXRuZXklMjBTcGVhcnMlMjAtJTIwVG94aWMyJTI4T2ZmaWNpYWwlMjBEJTIwVmlkZW8lMjklMjgzNjBQJTI5Lm1wNA=="
+},
+{
+  "title": "Britney Spears - Womanizer (Director's Cut) (Official HD Video)",
+  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0JyaXRuZXklMjBTcGVhcnMlMjAtJTIwV29tYW5pemVyJTIwJTI4RGlyZWN0b3IncyUyMEN1dCUyOSUyMCUyOE9mZmljaWFsJTIwSCUyMFZpZGVvJTI5JTI4MzYwUCUyOS5tcDQ="
+},
+{
+  "title": "Calvin Harris, Rihanna - This Is What You Came For (Official Video)",
+  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0NhbHZpbiUyMEhhcnJpcyUyQyUyMFJpaGFubmElMjAtJTIwVGhpcyUyMElzJTIwV2hhdCUyMFlvdSUyMENhbWUlMjBGb3IlMjAlMjhPZmZpY2lhbCUyMFZpZGVvJTI5JTI4MzYwUCUyOS5tcDQ="
+},
+{
+  "title": "Carlos Vives, Shakira - La Bicicleta",
+  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0NhcmxvcyUyMFZpdmVzJTJDJTIwU2hha2lyYSUyMC0lMjBMYSUyMEJpY2ljbGV0YSUyODM2MFAlMjkubXA0"
+},
+{
+  "title": "Christina Aguilera, Lil' Kim, Mya, P!nk - Lady Marmalade",
+  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0NocmlzdGluYSUyMEFndWlsZXJhJTJDJTIwTGlsJyUyMEtpbSUyQyUyME15YSUyQyUyMFAlMjFuayUyMC0lMjBMYWR5JTIwTWFybWFsYWRlJTI4MzYwUCUyOS5tcDQ="
+},
+{
+  "title": "Destiny's Child - Say My Name (Official Video)",
+  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0Rlc3RpbnkncyUyMENoaWxkJTIwLSUyMFNheSUyME15JTIwTmFtZSUyMCUyOE9mZmljaWFsJTIwVmlkZW8lMjklMjgzNjBQJTI5Lm1wNA=="
+},
+{
+  "title": "Dua Lipa - New Rules (Official Music Video)",
+  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0R1YSUyMExpcGElMjAtJTIwTmV3JTIwUnVsZXMlMjAlMjhPZmZpY2lhbCUyME11c2ljJTIwVmlkZW8lMjklMjgzNjBQJTI5Lm1wNA=="
+},
+{
+  "title": "Eminem - Love The Way You Lie ft. Rihanna",
+  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0VtaW5lbSUyMC0lMjBMb3ZlJTIwVGhlJTIwV2F5JTIwWW91JTIwTGllJTIwZnQuJTIwUmloYW5uYSUyODM2MFAlMjkubXA0"
+},
+{
+  "title": "Fifth Harmony - Worth It (Official Video) ft. Kid Ink",
+  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0ZpZnRoJTIwSGFybW9ueSUyMC0lMjBXb3J0aCUyMEl0JTIwJTI4T2ZmaWNpYWwlMjBWaWRlbyUyOSUyMGZ0LiUyMEtpZCUyMEluayUyODM2MFAlMjkubXA0"
+},
+{
+  "title": "Gloria Trevi - Pelo Suelto [Versión Original] (1991)",
+  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0dsb3JpYSUyMFRyZXZpJTIwLSUyMF9QZWxvJTIwU3VlbHRvXyUyMCU1QlZlcnNpJUMzJUIzbiUyME9yaWdpbmFsJTVEJTIwJTI4MTk5MSUyOSUyODM2MFAlMjkubXA0"
+},
+{
+  "title": "Gloria Trevi todos me miran",
+  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0dsb3JpYSUyMFRyZXZpJTIwdG9kb3MlMjBtZSUyMG1pcmFuJTI4MzYwUCUyOS5tcDQ="
+},
+{
+  "title": "Hannah Montana - The Movie - The climb music video",
+  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0hhbm5haCUyME1vbnRhbmElMjAtJTIwVGhlJTIwTW92aWUlM0YlMjBfVGhlJTIwY2xpbWJfJTIwbXVzaWMlMjB2aWRlbyUyODM2MFAlMjkubXA0"
+},
+{
+  "title": "Hannah Montana The Movie - The Climb scena dal film",
+  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0hhbm5haCUyME1vbnRhbmElMjBUaGUlMjBNb3ZpZSUyMC0lMjBUaGUlMjBDbGltYiUyMHNjZW5hJTIwZGFsJTIwZmlsbSUyODM2MFAlMjkubXA0"
+},
+{
+  "title": "Jason Derulo - Swalla (feat. Nicki Minaj & Ty Dolla $ign) [Official Music Video]",
+  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0phc29uJTIwRGVydWxvJTIwLSUyMFN3YWxsYSUyMCUyOGZlYXQuJTIwTmlja2klMjBNaW5haiUyMCUyNiUyMFR5JTIwRG9sbGElMjAkaWduJTI5JTIwJTVC+T2ZmaWNpYWwlMjBNdXNpYyUyMFZpZGVvJTVEJTI4MzYwUCUyOS5tcDQ="
+},
+{
+  "title": "Jessica Simpson - Irresistible",
+  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0plc3NpY2ElMjBTaW1wc29uJTIwLSUyMElycmVzaXN0aWJsZSUyODM2MFAlMjkubXA0"
+},
+{
+  "title": "Julieta Venegas - Me Voy (Video Stereo)",
+  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0p1bGlldGElMjBWZW5lZ2FzJTIwLSUyME1lJTIwVm95JTIwJTI4VmlkZW8lMjBTdGVyZW8lMjklMjgzNjBQJTI5Lm1wNA=="
+},
+{
+  "title": "Karol Sevilla - Nada Fue un Error (Coti Sorokin)",
+  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0thcm9sJTIwU2V2aWxsYSUyMC0lMjBOYWRhJTIwRnVlJTIwdW4lMjBFcnJvciUyMCUyOENvdGklMjBTb3Jva2luJTI5JTI4MzYwUCUyOS5tcDQ="
+  },
+  {
+    "title": "Karol Sevilla - LyricBesosDeCeniza",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0thcm9sJTIwU2V2aWxsYSUyMEklMjBJdHppdGVyeSUyMEklMjBfTFlSSUNCRVNPU0RFQ0VOSVpBJTI4MzYwUCUyOS5tcDQ="
+  },
+  {
+    "title": "Karol Sevilla - Sonreír y Amar (Tema Original e Inédito)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0thcm9sJTIwU2V2aWxsYSUyMEklMjBTb25yZWklQzMlQUQlMjB5JTIwQW1hciUyMEklMjBUZW1hJTIwT3JpZ2luYWwlMjBlJTIwSW4lQzMlQTlkaXRvJTI4MzYwUCUyOS5tcDQ="
+  },
+  {
+    "title": "Katy Perry - Chained To The Rhythm (Official) ft. Skip Marley",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0thdHklMjBQZXJyeSUyMC0lMjBDaGFpbmVkJTIwVG8lMjBUaGUlMjBSaHl0aG0lMjAlMjhPZmZpY2lhbCUyOSUyMGZ0LiUyMFNraXAlMjBNYXJsZXklMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Katy Perry - Dark Horse ft. Juicy J",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0thdHklMjBQZXJyeSUyMC0lMjBEYXJrJTIwSG9yc2UlMjBmdC4lMjBKdWljeSUyMEolMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Katy Perry - The One That Got Away (Official Music Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL0thdHklMjBQZXJyeSUyMC0lMjBUaGUlMjBPbmUlMjBUaGF0JTIwR290JTIwQXdheSUyMCUyOE9mZmljaWFsJTIwTXVzaWMlMjBWaWRlbyUyOSUyODM2MFAlMjkubXA0"
+  },
+  {
+    "title": "Meghan Trainor - All About That Bass (Official Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL01lZ2hhbiUyMFRyYWlub3IlMjAtJTIwQWxsJTIwQWJvdXQlMjBUaGF0JTIwQmFzcyUyMCUyOE9mZmljaWFsJTIwVmlkZW8lMjklMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Meghan Trainor - Dear Future Husband (Official Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL01lZ2hhbiUyMFRyYWlub3IlMjAtJTIwRGVhciUyMEZ1dHVyZSUyMEh1c2JhbmQlMjAlMjhPZmZpY2lhbCUyMFZpZGVvJTI5JTI4MzYwUCUyOS5tcDQ="
+  },
+  {
+    "title": "Meghan Trainor - Lips Are Movin (Official Music Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL01lZ2hhbiUyMFRyYWlub3IlMjAtJTIwTGlwcyUyMEFyZSUyME1vdmluJTIwJTI4T2ZmaWNpYWwlMjBNdXNpYyUyMFZpZGVvJTI5JTI4MzYwUCUyOS5tcDQ="
+  },
+  {
+    "title": "Miley Cyrus - Start All Over",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL01pbGV5JTIwQ3lydXMlMjAtJTIwU3RhcnQlMjBBbGwlMjBPdmVyJTI4MzYwUCUyOS5tcDQ="
+  },
+  {
+    "title": "Miley Cyrus - The Climb",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL01pbGV5JTIwQ3lydXMlMjAtJTIwVGhlJTIwQ2xpbWIlMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Miley Cyrus - We Can't Stop (Official Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL01pbGV5JTIwQ3lydXMlMjAtJTIwV2UlMjBDYW4ndCUyMFN0b3AlMjAlMjhPZmZpY2lhbCUyMFZpZGVvJTI5JTI4MzYwUCUyOS5tcDQ="
+  },
+  {
+    "title": "Miley Cyrus - When I Look At You",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL01pbGV5JTIwQ3lydXMlMjAtJTIwV2hlbiUyMEklMjBMb29rJTIwQXQlMjBZb3UlMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Nicki Minaj - Anaconda",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL05pY2tpJTIwTWluYWolMjAtJTIwQW5hY29uZGElMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Nicki Minaj - Beez In The Trap (Explicit) ft. 2 Chainz",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL05pY2tpJTIwTWluYWolMjAtJTIwQmVleiUyMEluJTIwVGhlJTIwVHJhcCUyMCUyOEV4cGxpY2l0JTI5JTIwZnQuJTIwMiUyMENoYWlueiUyODM2MFAlMjkubXA0"
+  },
+  {
+    "title": "Nicki Minaj - Starships (Explicit) (Official Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL05pY2tpJTIwTWluYWolMjAtJTIwU3RhcnNoaXBzJTIwJTI4RXhwbGljaXQlMjklMjAlMjhPZmZpY2lhbCUyMFZpZGVvJTI5JTI4MzYwUCUyOS5tcDQ="
+  },
+  {
+    "title": "Nicki Minaj - Super Bass (Edited)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL05pY2tpJTIwTWluYWolMjAtJTIwU3VwZXIlMjBCYXNzJTIwJTI4RWRpdGVkJTI5JTI4MzYwUCUyOS5tcDQ="
+  },
+  {
+    "title": "Nicki Minaj - Super Bass (Official Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL05pY2tpJTIwTWluYWolMjAtJTIwU3VwZXIlMjBCYXNzJTIwJTI4T2ZmaWNpYWwlMjBWaWRlbyUyOSUyODM2MFAlMjkubXA0"
+  },
+  {
+    "title": "Nicki Minaj - The Night Is Still Young",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL05pY2tpJTIwTWluYWolMjAtJTIwVGhlJTIwTmlnaHQlMjBJcyUyMFN0aWxsJTIwWW91bmclMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Nicki Minaj - Va Va Voom (Explicit)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL05pY2tpJTIwTWluYWolMjAtJTIwVmElMjBWYSUyMFZvb20lMjAlMjhFeHBsaWNpdCUyOSUyODM2MFAlMjkubXA0"
+  },
+  {
+    "title": "Rihanna - California King Bed",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1JpaGFubmElMjAtJTIwQ2FsaWZvcm5pYSUyMEtpbmclMjBCZWQlMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Rihanna - Diamonds",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1JpaGFubmElMjAtJTIwRGlhbW9uZHMlMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Rihanna - Don't Stop The Music",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1JpaGFubmElMjAtJTIwRG9uJ3QlMjBTdG9wJTIwVGhlJTIwTXVzaWMlMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Rihanna - Lift Me Up (From Black Panther: Wakanda Forever)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1JpaGFubmElMjAtJTIwTGlmdCUyME1lJTIwVXAlMjAlMjhGcm9tJTIwQmxhY2slMjBQYW50aGVyJTNBJTIwV2FrYW5kYSUyMEZvcmV2ZXIlMjklMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Rihanna - Man Down",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1JpaGFubmElMjAtJTIwTWFuJTIwRG93biUyODM2MFAlMjkubXA0"
+  },
+  {
+    "title": "Rihanna - Only Girl (In The World)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1JpaGFubmElMjAtJTIwT25seSUyMEdpcmwlMjAlMjhJbiUyMFRoZSUyMFdvcmxkJTI5JTI4MzYwUCUyOS5tcDQ="
+  },
+  {
+    "title": "Rihanna - Pon de Replay (Internet Version)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1JpaGFubmElMjAtJTIwUG9uJTIwZGUlMjBSZXBsYXklMjAlMjhJbnRlcm5ldCUyMFZlcnNpb24lMjklMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Rihanna - Rude Boy",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1JpaGFubmElMjAtJTIwUnVkZSUyMEJveSUyODM2MFAlMjkubXA0"
+  },
+  {
+    "title": "Rihanna - Umbrella (Orange Version) (Official Music Video) ft. JAY-Z",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1JpaGFubmElMjAtJTIwVW1icmVsbGElMjAlMjhPcmFuZ2UlMjBWZXJzaW9uJTI5JTIwJTI4T2ZmaWNpYWwlMjBNdXNpYyUyMFZpZGVvJTI5JTIwZnQuJTIwSkFZLVolMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Rihanna - Unfaithful (Official Music Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1JpaGFubmElMjAtJTIwVW5mYWl0aGZ1bCUyMCUyOE9mZmljaWFsJTIwTXVzaWMlMjBWaWRlbyUyOSUyODM2MFAlMjkubXA0"
+  },
+  {
+    "title": "Rihanna - What's My Name? ft. Drake",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1JpaGFubmElMjAtJTIwV2hhdCdzJTIwTXklMjBOYW1lJTNGJTIwZnQuJTIwRHJha2UlMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Rihanna - Where Have You Been",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1JpaGFubmElMjAtJTIwV2hlcmUlMjBIYXZlJTIwWW91JTIwQmVlbiUyODM2MFAlMjkubXA0"
+  },
+  {
+    "title": "Rihanna - Work (Explicit) ft. Drake",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1JpaGFubmElMjAtJTIwV29yayUyMCUyOEV4cGxpY2l0JTI5JTIwZnQuJTIwRHJha2UlMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Selena Gomez - Come & Get It",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1NlbGVuYSUyMEdvbWV6JTIwLSUyMENvbWUlMjAlMjYlMjBHZXQlMjBJdCUyODM2MFAlMjkubXA0"
+  },
+  {
+    "title": "Selena Gomez - Lose You To Love Me (Official Music Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1NlbGVuYSUyMEdvbWV6JTIwLSUyMExvc2UlMjBZb3UlMjBUbyUyMExvdmUlMjBNZSUyMCUyOE9mZmljaWFsJTIwTXVzaWMlMjBWaWRlbyUyOSUyODM2MFAlMjkubXA0"
+  },
+  {
+    "title": "Selena Gomez - The Heart Wants What It Wants (Official Video)",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1NlbGVuYSUyMEdvbWV6JTIwLSUyMFRoZSUyMEhlYXJ0JTIwV2FudHMlMjBXaGF0JTIwSXQlMjBXYW50cyUyMCUyOE9mZmljaWFsJTIwVmlkZW8lMjklMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Selena Gomez & The Scene - Hit The Lights",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1NlbGVuYSUyMEdvbWV6JTIwJTI2JTIwVGhlJTIwU2NlbmUlMjAtJTIwSGl0JTIwVGhlJTIwTGlnaHRzJTI4MzYwUCUyOS5tcDQ="
+  },
+  {
+    "title": "Selena Gomez & The Scene - Love You Like A Love Song",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1NlbGVuYSUyMEdvbWV6JTIwJTI2JTIwVGhlJTIwU2NlbmUlMjAtJTIwTG92ZSUyMFlvdSUyMExpa2UlMjBBJTIwTG92ZSUyMFNvbmclMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Selena Gomez & The Scene - Naturally",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1NlbGVuYSUyMEdvbWV6JTIwJTI2JTIwVGhlJTIwU2NlbmUlMjAtJTIwTmF0dXJhbGx5JTI4MzYwUCUyOS5tcDQ="
+  },
+  {
+    "title": "Selena Gomez & The Scene - Un Año Sin Lluvia",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1NlbGVuYSUyMEdvbWV6JTIwJTI2JTIwVGhlJTIwU2NlbmUlMjAtJTIwVW4lMjBBJUMzJUIxbyUyMFNpbiUyMExsdXZpYSUyODM2MFAlMjkubXA0"
+  },
+  {
+    "title": "Selena Gomez & The Scene - Who Says",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1NlbGVuYSUyMEdvbWV6JTIwJTI2JTIwVGhlJTIwU2NlbmUlMjAtJTIwV2hvJTIwU2F5cyUyODM2MFAlMjkubXA0"
+  },
+  {
+    "title": "Selena Gomez, Marshmello - Wolves",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1NlbGVuYSUyMEdvbWV6JTJDJTIwTWFyc2htZWxsbyUyMC0lMjBXb2x2ZXMlMjgzNjBQJTI5Lm1wNA=="
+  },
+  {
+    "title": "Shakira - Chantaje (Official Video) ft. Maluma",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1NoYWtpcmElMjAtJTIwQ2hhbnRhamUlMjAlMjhPZmZpY2lhbCUyMFZpZGVvJTI5JTIwZnQuJTIwTWFsdW1hJTI4MzYwUCUyOS5tcDQ="
+  },
+  {
+    "title": "Sofia Carson - Love Is the Name ft. J Balvin",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1NvZmlhJTIwQ2Fyc29uJTIwLSUyMExvdmUlMjBJcyUyMHRoZSUyME5hbWUlMjBmdC4lMjBKJTIwQmFsdmluJTI4MzYwUCUyOS5tcDQ="
+  },
+  {
+    "title": "Tu mejor amiga - Jennifer Peña",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1R1JTIwbWVqb3IlMjBhbWlnYSUyMC0lMjBKZW5uaWZlciUyMFBlJUMzJUIxYSUyODM2MFAlMjkubXA0"
+  },
+  {
+    "title": "When I Look At You",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9yaWhhbm5hLXdvcmstZXhwbGljaXQtZnQtLWRyYWtlLTM2MC1wL1doZW4lMjBJJTIwTG9vayUyMEF0JTIwWW91JTI4MzYwUCUyOS5tcDQ="
+  }
+]
